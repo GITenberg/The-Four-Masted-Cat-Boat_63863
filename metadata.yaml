@@ -1,5 +1,8 @@
 _repo: The-Four-Masted-Cat-Boat_63863
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 63863-h/images/cover.jpg
 creator:
   author:
     agent_name: Loomis, Charles Battell
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40637
     wikipedia: https://en.wikipedia.org/wiki/Charles_Battell_Loomis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63863#The-Four-Masted-Cat-Boat
 gutenberg_issued: '2020-11-23'
 gutenberg_type: Text
 identifiers:
